@@ -35,12 +35,12 @@
 	"organizations": {
 		"Org11MSP": {
 			"mspid": "Org11MSP",
-			"fullpath": false,
+			"fullpath": true,
 			"adminPrivateKey": {
-				"path": "/tmp/crypto/peerOrganizations/org11.example.com/users/Admin@org11.example.com/msp/keystore"
+				"path": "/tmp/crypto/peerOrganizations/org11.example.com/users/Admin@org11.example.com/msp/keystore/ece21d64a6e671bed8fac7a6b7df2fac104d4910272c2d9733e2330710178086_sk"
 			},
 			"signedCert": {
-				"path": "/tmp/crypto/peerOrganizations/org11.example.com/users/Admin@org11.example.com/msp/signcerts"
+				"path": "/tmp/crypto/peerOrganizations/org11.example.com/users/Admin@org11.example.com/msp/signcerts/Admin@org11.example.com-cert.pem"
 			}
 		}
 	},
